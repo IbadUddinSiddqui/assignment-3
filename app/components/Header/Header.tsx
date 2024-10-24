@@ -2,7 +2,7 @@ export default function Header() {
     return (
       <header className="bg-blue-900  text-white py-4">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-3xl font-bold">Ibad's  Next.js Site</h1>
+          <h1 className="text-3xl font-bold">Ibads  Next.js Site</h1>
           <h2 className="text-center text-2xl" >Assignment 3</h2>
           <nav>
             <ul className="flex space-x-4">
